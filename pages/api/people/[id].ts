@@ -1,5 +1,5 @@
 import { NextApiRequest, NextApiResponse } from 'next'
-import { people } from '../../../data'
+import { people } from '../../../data/data'
 import type { Person, ResponseError } from '../../../interfaces'
 
 export default function personHandler(

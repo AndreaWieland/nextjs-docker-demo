@@ -99,4 +99,14 @@ export const people = [
     eye_color: 'blue-gray',
     gender: 'male',
   },
+  // {
+  //   id: '11',
+  //   name: 'Andrea Wieland',
+  //   height: '162',
+  //   mass: 'nunya',
+  //   hair_color: 'brown',
+  //   skin_color: 'radiant',
+  //   eye_color: 'don\'t remember',
+  //   gender: 'cool',
+  // },
 ]
